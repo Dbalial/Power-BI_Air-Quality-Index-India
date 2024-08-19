@@ -1,6 +1,4 @@
-Here's a "Read Me" file for your Power BI dashboard on Air Quality Index (AQI) in India, formatted similarly to your example:
 
----
 
 # Air Quality Index (AQI) in India Dashboard
 
