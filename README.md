@@ -1,4 +1,4 @@
-# Air Quality Index (AQI) in India Dashboard
+# Air Quality Index (AQI) in India Dashboard [LINK](https://github.com/Dbalial/Power-BI_Projects/tree/main/Air%20Quality%20Index%20(AQI)%20in%20India)
 
 This Power BI dashboard analyzes the Air Quality Index (AQI) across various Indian cities, offering insights into air pollution levels and trends.
 
