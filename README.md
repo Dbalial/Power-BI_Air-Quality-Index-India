@@ -14,4 +14,4 @@ This Power BI dashboard analyzes the Air Quality Index (AQI) across various Indi
 - **Average AQI Over the Years:** Line chart showing AQI trends over time.
 
 
-# Super Store Dashboard [LINK](https://github.com/Dbalial/Power-BI_Projects/tree/main/Air%20Quality%20Index%20(AQI)%20in%20India)
+# Super Store Dashboard [LINK](https://github.com/Dbalial/Power-BI_Projects/tree/main/Super%20Store%20Dashboard)
